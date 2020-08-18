@@ -1,0 +1,8 @@
+= File Renamer
+
+This project provides a simple Swing GUI to rename files in batch.
+
+The goal of this project is two-fold:
+
+. Showcase GitHub and Maven artifact management integration
+. Provide a comparison baseline for projects using Kotlin and the Java Swing API
