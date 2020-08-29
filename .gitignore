@@ -4,3 +4,5 @@ target
 dependency-reduced-pom.xml
 .java-version
 *.dmg
+pom.xml.releaseBackup
+release.properties
