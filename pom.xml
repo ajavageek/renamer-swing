@@ -9,7 +9,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>14</maven.compiler.release>
-        <kotlin.version>1.4.21-2</kotlin.version>
+        <kotlin.version>1.9.23</kotlin.version>
         <main.class>ch.frankel.blog.renamer.RenamerAppKt</main.class>
         <git.repository>ajavageek/renamer-swing</git.repository>
         <project.scm.id>github</project.scm.id>
