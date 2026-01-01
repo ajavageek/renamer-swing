@@ -126,6 +126,11 @@
                     <mainJar>${project.build.finalName}.jar</mainJar>
                     <mainClass>${main.class}</mainClass>
                     <type>APP_IMAGE</type>
+                    <addModules>
+                        <addModule>java.base</addModule>
+                        <addModule>java.desktop</addModule>
+                        <addModule>java.logging</addModule>
+                    </addModules>
                 </configuration>
                 <executions>
                     <execution>
